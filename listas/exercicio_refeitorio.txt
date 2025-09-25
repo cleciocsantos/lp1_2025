@@ -1,0 +1,12 @@
+Faça um sistema para atender alunos na fila do refeitório.
+
+A cada rodada o sistema deve exibir:
+"Existem X alunos na fila."
+"Digite uma das opções:"
+"F - para adicionar um aluno no fim da fila."
+"A - para atender o primeiro da fila."
+"S - para sair."
+
+Quando o usuário digitar "A", o sistema deve exibir "Aluno Tal atendido" ou "Fila vazia! Ninguém para atender".
+
+Quando o usuário digitar uma opção inválida o sistema deve exibir "Operação inválida! Digite apenas F, A ou S!".
