@@ -1,0 +1,8 @@
+Faça um programa que procure numa lista um número digitado pelo usuário e diga em qual posição encontrou ou se não encontrou.
+
+Exemplo:
+lista = [9, 4, 3, 2, 1, 7]
+Número procurado: 2
+"Encontrei no índice 3!"
+Número procurado: 8
+"Não encontrei!"
