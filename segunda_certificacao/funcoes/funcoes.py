@@ -2,6 +2,7 @@
 def soma(a, b):
     print(a + b)
 
+# Exemplo de chamada da função sem retorno
 soma(2, 9)
 soma(7, 8)
 
@@ -9,6 +10,7 @@ soma(7, 8)
 def soma2(a, b):
     return a + b
 
+#Exemplo de chamada da função com retorno
 resultado = 5 * soma2(4,9)
 print(resultado)
 
