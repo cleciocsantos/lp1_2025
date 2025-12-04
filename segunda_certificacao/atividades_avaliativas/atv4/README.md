@@ -1,6 +1,6 @@
 # Atividade Avaliativa 4 -- Processamento de Arquivo em Python
 
-Crie um programa em Python que leia um arquivo de texto chamado
+Crie uma função em Python que leia um arquivo de texto chamado
 **comandos.txt**.\
 Cada linha desse arquivo representará um comando que o programa deve
 interpretar e executar.
@@ -27,7 +27,7 @@ O arquivo **comandos.txt** poderá conter linhas nos seguintes formatos:
     SAIR
     SOMA 1 1   # Esta linha não deve ser executada
 
-## O que o programa deve fazer
+## O que a função deve fazer
 
 1.  Abrir o arquivo `comandos.txt` para leitura.
 2.  Ler linha por linha.
