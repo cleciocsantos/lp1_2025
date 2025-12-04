@@ -9,11 +9,11 @@ interpretar e executar.
 
 O arquivo **comandos.txt** poderá conter linhas nos seguintes formatos:
 
-1.  `SOMA x y` -- o programa deve exibir a soma de x e y\
-2.  `MULT x y` -- o programa deve exibir o produto de x e y\
-3.  `DOBRO x` -- o programa deve exibir o dobro de x\
+1.  `SOMA x y` -- o programa deve exibir a soma de x e y
+2.  `MULT x y` -- o programa deve exibir o produto de x e y
+3.  `DOBRO x` -- o programa deve exibir o dobro de x
 4.  `TEXTO mensagem...` -- o programa deve imprimir a mensagem
-    exatamente como está após o comando\
+    exatamente como está após o comando
 5.  `SAIR` -- quando o programa ler este comando, deve parar
     imediatamente
 
